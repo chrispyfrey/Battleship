@@ -1,3 +1,5 @@
+# Fall 2017 CSCI-2312 Object Oriented Programming Final Project
+
 This program implements a version of the Battleship game.
 
 The Gameboard on the left shows the placement of your 
