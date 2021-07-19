@@ -1,15 +1,4 @@
-*******************************************************
-*  Name      : Christopher Frey         
-*  Student ID: 108198583 
-*  Class     : CSCI 2312 001           
-*  HW#       : Final Project                
-*  Due Date  : November 28, 2017
-*
-*******************************************************
-		     Read Me
-*******************************************************
-*  	     Description of the program
-*******************************************************
+
 This program implements a version of the Battleship game.
 
 The Gameboard on the left shows the placement of your 
